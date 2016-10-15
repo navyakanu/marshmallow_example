@@ -1,5 +1,5 @@
-from marshapi.marshmallow.marshclients import MarshClient
-from marshmallow_examples.user_models import CreatedUserResponse, CreateUsersRequest
+from marshest.marshest.marshclients import MarshClient
+from marshest_examples.user_models import CreatedUserResponse, CreateUsersRequest
 
 class UsersAPIClient(MarshClient):
 

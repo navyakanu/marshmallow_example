@@ -1,5 +1,5 @@
 import json
-from marshapi.marshmallow.marshmodels import MarshModel
+from marshest.marshest.marshmodels import MarshModel
 
 
 class CreateUsersRequest(MarshModel):

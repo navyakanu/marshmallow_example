@@ -1,6 +1,6 @@
 import unittest
 
-from marshmallow_examples.user_apis import UsersAPIClient
+from marshest_examples.user_apis import UsersAPIClient
 
 
 class APIBaseTest(unittest.TestCase):

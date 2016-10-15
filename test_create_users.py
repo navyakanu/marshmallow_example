@@ -1,6 +1,6 @@
 import pytest
 
-from marshmallow_examples.base_test import APIBaseTest
+from marshest_examples.base_test import APIBaseTest
 
 
 class UsersAPITests(APIBaseTest):
