@@ -7,4 +7,4 @@ class APIBaseTest(unittest.TestCase):
 
     @classmethod
     def setUpClass(cls):
-        cls.user_api_client = UsersAPIClient(url="http://reqres.in/api")
+        cls.user_api_client = UsersAPIClient(url="https://reqres.in/api")
