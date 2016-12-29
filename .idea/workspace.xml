@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c88c747-a55f-4aa5-84b2-a45182e334cd" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/user_api/models/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/user_api/models/user_models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clients/user_api/models/user_models_single_user.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/base_test.py" afterPath="$PROJECT_DIR$/base_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/user_api/user_apis.py" afterPath="$PROJECT_DIR$/clients/user_api/user_apis.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_create_users.py" afterPath="$PROJECT_DIR$/test_create_users.py" />
-    </list>
+    <list default="true" id="3c88c747-a55f-4aa5-84b2-a45182e334cd" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -520,7 +510,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
