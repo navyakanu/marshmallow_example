@@ -12,7 +12,7 @@ class UsersAPITests(APIBaseTest):
     @pytest.mark.create_user
     def test_create_user(self):
         new_user = self.user_api_client.create_users("jaydeep", "QA")
-        self.assertEquals(new_user.status_code, 201, msg="Status code does not match")
+        self.assertEquals(new_user.status_code, 200, msg="Status code does not match")
         new_user = new_user.object
         print(new_user)
         self.assertEquals(new_user.name, "jaydeep", msg="Name does not match")
